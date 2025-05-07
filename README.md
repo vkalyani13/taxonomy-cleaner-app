@@ -78,7 +78,7 @@ You can deploy this app publicly using [Streamlit Community Cloud](https://strea
 You’ll get a link like:
 
 ```
-https://your-username.streamlit.app
+[https://your-username.streamlit.app](https://taxonomy-cleaner-app-vmat73k6zug3lenvma4tzd.streamlit.app)
 ```
 
 ---
